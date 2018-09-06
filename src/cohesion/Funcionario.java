@@ -1,4 +1,4 @@
-package coesao;
+package cohesion;
 
 public class Funcionario {
 	private Cargo cargo;

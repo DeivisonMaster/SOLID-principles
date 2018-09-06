@@ -1,4 +1,4 @@
-package acoplamento;
+package low.coupling;
 
 import java.util.ArrayList;
 import java.util.List;

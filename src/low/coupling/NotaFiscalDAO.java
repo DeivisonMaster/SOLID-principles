@@ -1,4 +1,4 @@
-package acoplamento;
+package low.coupling;
 
 public class NotaFiscalDAO implements AcaoAposGerarNota {
 
